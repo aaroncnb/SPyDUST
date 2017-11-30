@@ -1,0 +1,1 @@
+input_params = {nh: 30d, T: 1d2, chi: 1d, xh: 1d-3, xc: 3d-4, y: 0d, gamma: 0d, dipole: 9.3d, line: 7}
